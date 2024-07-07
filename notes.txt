@@ -2,7 +2,7 @@
 2. Relax page madhe ID as a param use krat ahe.. but relax page is not build to be rendered on the basis of ID because it is authenticated without showing the ID
 
 to tackle
-1. infinite scroll loading... issue
+1. infinite scroll loading... issue ;lmdlkfsldkm
 
 
 ab tere bin
